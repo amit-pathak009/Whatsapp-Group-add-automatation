@@ -1,4 +1,3 @@
-````markdown
 # WhatsApp Group Participant Adder
 
 Automate adding participants to WhatsApp groups via WhatsApp Web using Selenium. This script helps efficiently add multiple participants from a list of phone numbers, with support for batch processing, retries, manual intervention, and progress tracking.
