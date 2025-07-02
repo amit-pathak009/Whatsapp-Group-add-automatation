@@ -38,7 +38,7 @@ Automate adding participants to WhatsApp groups via WhatsApp Web using Selenium.
 
    ```bash
    pip install selenium
-````
+```
 
 3. Download ChromeDriver matching your Chrome browser version and ensure it’s accessible in your system’s PATH or specify the path in the script.
 4. Set the Chrome user data directory path in the script to your WhatsApp Web profile folder to keep the session active:
